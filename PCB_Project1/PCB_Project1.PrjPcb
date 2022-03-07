@@ -183,23 +183,6 @@ GenerateClassCluster=0
 DocumentUniqueId=JGHRUMKU
 
 [Document9]
-DocumentPath=Test\6-1676480-4\0402_Resistor.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YGCPKAPR
-
-[Document10]
 DocumentPath=ADuM4121ARIZ_Driver.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -216,7 +199,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XYSDYJUI
 
-[Document11]
+[Document10]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -233,7 +216,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HNFQTDPA
 
-[Document12]
+[Document11]
 DocumentPath=Phoenix Contact.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -250,7 +233,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BCHSLLNM
 
-[Document13]
+[Document12]
 DocumentPath=2ohmVishay.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -267,7 +250,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HQJSOYRX
 
-[Document14]
+[Document13]
 DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -284,7 +267,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KPJRBCRC
 
-[Document15]
+[Document14]
 DocumentPath=PcbLib\NCP1117DT50RKG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -301,7 +284,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUMRHXEA
 
-[Document16]
+[Document15]
 DocumentPath=PcbLib\GPI65030DFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -318,7 +301,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CYUYGOWQ
 
-[Document17]
+[Document16]
 DocumentPath=THS4508RGTT\THS4508.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -335,7 +318,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGBSHSJH
 
-[Document18]
+[Document17]
 DocumentPath=PcbLib\MC7905BD2TR4G.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -352,7 +335,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNSAPBJJ
 
-[Document19]
+[Document18]
 DocumentPath=BUF602IDBVT\SOT95P280X145-5N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -369,7 +352,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IDLPIRRJ
 
-[Document20]
+[Document19]
 DocumentPath=ADuM4121ARIZ_Driver.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -386,7 +369,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBXNHHJN
 
-[Document21]
+[Document20]
 DocumentPath=SchLib\NCP1117DT50RKG.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -403,7 +386,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IYFNXZDY
 
-[Document22]
+[Document21]
 DocumentPath=THS4508.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -420,7 +403,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DBOBJGGF
 
-[Document23]
+[Document22]
 DocumentPath=GPI65030DFN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -437,7 +420,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BQKEAPRD
 
-[Document24]
+[Document23]
 DocumentPath=THS4508RGTT.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -454,7 +437,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document24]
 DocumentPath=PcbLib\0402_Resistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -470,6 +453,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CTQWQHLG
+
+[Document25]
+DocumentPath=PcbLib\0805_Resistor.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document26]
+DocumentPath=SchLib\0805_Resistor.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JVHTISAB
 
 [Configuration1]
 Name=Sources
